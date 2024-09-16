@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "Dive into Visualization with Seaborn: Iris Flower Dataset 🎉",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "This project leverages the Seaborn library to visualize the Iris flower dataset, demonstrating the power of data visualization in simplifying analysis and uncovering insights.Seaborn, a versatile and user-friendly Python library, is used to create aesthetically appealing and informative statistical graphics. The project focuses on exploring the relationships between the features of the Iris dataset, such as sepal length, sepal width, petal length, and petal width, across the three different species. By utilizing Seaborn's rich visualization capabilities, this project offers a clear and engaging way to understand the structure and distribution of the data, making it a valuable tool for data scientists and analysts alike.",
+    url: "https://github.com/MotsimAslam/Data-Science-Projects-Notebooks/blob/main/dive-into-visulization-with-seaborn-library-iris-flower.ipynb",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Loan Approval Prediction Using RandomForestClassifier: A Machine Learning Approach",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This project focuses on loan prediction analysis using the RandomForestClassifier, a powerful machine learning algorithm known for its accuracy and robustness. The goal of the project is to predict whether loan applicants will be approved for a loan based on various factors such as income, credit history, and loan amount. By leveraging the ensemble learning capabilities of RandomForest, the project creates a model that combines multiple decision trees to enhance prediction accuracy. This approach not only helps in managing overfitting but also improves the reliability of the model. The analysis provides valuable insights for financial institutions to streamline the loan approval process while minimizing risk.",
+    url: "https://github.com/MotsimAslam/Data-Science-Projects-Notebooks/blob/main/loan-prediction-analysis-randomforestclassifier.ipynb",
   },
   {
-    title: "My Resume Site",
+    title: "Survival Prediction on the Titanic: A RandomForestClassifier Approach",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "This project applies the RandomForestClassifier to the famous Titanic dataset in order to predict passenger survival. By analyzing various factors such as age, gender, class, and family size, the model aims to classify whether a passenger would have survived the disaster. RandomForest, an ensemble learning method, combines multiple decision trees to improve prediction accuracy and reduce overfitting. The project highlights how machine learning techniques can be used to gain insights into historical events and offers a practical approach to binary classification problems.",
+    url: "https://github.com/MotsimAslam/Data-Science-Projects-Notebooks/blob/main/titanic-basic-random-forest-technique.ipynb",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Unraveling Insights into Heart Failure: A Data Analysis Approach",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This project dives into the analysis of heart failure data to uncover key patterns and insights that can aid in understanding and predicting patient outcomes. By examining various clinical factors such as age, blood pressure, ejection fraction, and other health metrics, the analysis aims to identify important correlations and risk indicators. Through effective data visualization and machine learning techniques, this project sheds light on the factors contributing to heart failure, offering a valuable resource for healthcare professionals and researchers in improving patient care and preventive strategies.",
+    url: "https://github.com/MotsimAslam/Data-Science-Projects-Notebooks/blob/main/unraveling-insights-into-heart-failure.ipynb",
   },
 ];
 

@@ -24,20 +24,20 @@ const imageAltText = "purple and blue abstract background";
  * Sort description that expands on your title on the Home component.
  */
 const description =
-  "I'm a UI/UX student studying at Barnett Technical University. I enjoy creating unique and simplistic user interfaces in creative ways.";
+  "Aspiring Data Scientist, Data Analyst, and Artificial Intelligence Enthusiast with 3+ years of experience and a strong background in website development. Skilled in data cleaning, analysis, visualization, and SQL, and Python programming. Proficient in transforming complex datasets into actionable insights. Expertise in website development using HTML, CSS, and JavaScript. Committed to driving data-driven decision-making and optimizing business performance. Strong problem-solving and communication skills. Seeking opportunities to leverage my analytical and development skills to deliver impactful results. Let's connect to explore how I can contribute to your organization's success";
 
 /**
  * List of some of skills or technologies you work on, are learning,
  * passionate about, or enjoy,
  */
 const skillsList = [
-  "Web design",
-  "User experience",
-  "Inclusive design",
-  "Focus group testing",
-  "Mobile user interfaces",
-  "Graphic design",
-];
+  "Data Analyst",
+  "Data Scientist",
+  "Machine Learning",
+  "Web Developer", 
+  "Power BI",
+  "SQL",
+  "Python",];
 
 /**
  * Use this to give more information about what you are passionate about,
@@ -45,7 +45,7 @@ const skillsList = [
  * about you on a professional level.
  */
 const detailOrQuote =
-  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my UI/UX experience I continually look for new and better ways to make tech accessible by all.";
+  "I am passionate about solving problems in new creative ways to drive innovation. By leveraging my Data Science and Machine Learning experience I continually look for new and better ways to make tech accessible by all.";
 
 const About = () => {
   return (
